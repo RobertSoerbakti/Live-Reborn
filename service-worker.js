@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.da0315dc3f85219c0e8f6dc70c0fe15d.js"
+  "precache-manifest.fe94e3d8f32f57dd4164719ffa9bb96f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "live-reborn-web"});

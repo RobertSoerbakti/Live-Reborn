@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5ecd822eb3b35df6f62",
+    "revision": "540d889e3f1289a696bc",
     "url": "css/app.1bfb6cb4.css"
   },
   {
@@ -185,15 +185,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "a195c63b87514c842989fc8a1c803de9",
+    "url": "img/neo_live_logo.a195c63b.svg"
+  },
+  {
+    "revision": "a195c63b87514c842989fc8a1c803de9",
     "url": "img/neo_live_logo.svg"
   },
   {
-    "revision": "5a51ca7e1bae98f1bef027b70d229c24",
+    "revision": "2e166f11c596da43222d515ff2d7df57",
     "url": "index.html"
   },
   {
-    "revision": "e5ecd822eb3b35df6f62",
-    "url": "js/app.c7cf382e.js"
+    "revision": "540d889e3f1289a696bc",
+    "url": "js/app.7389c47f.js"
   },
   {
     "revision": "7bdd57c77a51118f2cdd",
